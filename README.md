@@ -1,4 +1,8 @@
-# CryptoClustering
+# create a machine learning (unsupervised) model that groups cryptocurrencies. 
+## The purpose is to assemble investment portfolios that are based on the profitability of those cryptocurrencies
+
+
+### CryptoClustering
 
 this is the output of the challenge 19
 
